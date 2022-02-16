@@ -1,5 +1,5 @@
 # TASK
-# Using_WAME_optimiser_to_increase_effieciency_to_detect_number_of_people_whose_income_exceeds_50K
+# To_detect_number_of_people_whose_income_exceeds_50K and use WAME_optimiser to compare effieciency of the model instead of using Adam optimiser
 To_detect_number_of_people_whose_income_exceeds_50K_by_using_WAME_optimiser_to_increase_effieciency_on_adult_dataset
 
 # Action
